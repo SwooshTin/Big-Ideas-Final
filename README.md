@@ -9,6 +9,7 @@ Kevin Fung
 
 Emails:
 JDB201@pitt.edu
+IEB7@pitt.edu
 
 
 Data Sets:
