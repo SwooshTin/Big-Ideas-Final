@@ -1,6 +1,6 @@
 # Big-Ideas-Final
 
-Team Name:
+Team Name:Team 6
 
 Group Members:
 Justin Booth, 
