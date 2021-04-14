@@ -15,6 +15,7 @@ IEB7@pitt.edu
 
 Data Sets:
 Police:https://data.wprdc.org/dataset/uniform-crime-reporting-data
+The police data set shows all the crime incident reports in all the neighborhoods around Allegheny County. It tells of the locations and the incidents reported at said locations. Is a great way to tell what the safest neighborhood is.
 
 Trees: https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
 
