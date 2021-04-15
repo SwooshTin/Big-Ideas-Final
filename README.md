@@ -2,7 +2,8 @@
 
 Team Name:Team 6
 
-Metric: The neighborhood that has the highest population, with the lowest crime rate and the best trees is the best neighborhood.
+Metric: The neighborhood that has the highest population, with the lowest crime rate and the best trees is the best neighborhood.\
+
 Group Members:
 Justin Booth, 
 Isaac Bredbenner,
