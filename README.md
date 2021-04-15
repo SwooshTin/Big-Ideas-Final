@@ -25,4 +25,4 @@ Population:
 
 
 
-Abstract:
+Abstract: We determined Squirrel Hill North as the best Neighborhood since it is 4th best in population, 4th best in trees, and is only the 29th highest in crime rates. From this it is easy to see why it is the best it has the best population to crime ratio and has some very nice trees in the area.
