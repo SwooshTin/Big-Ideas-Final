@@ -10,8 +10,9 @@ Isaac Bredbenner,
 Kevin Fung
 
 Emails:
-JDB201@pitt.edu
-IEB7@pitt.edu
+JDB201@pitt.edu,
+IEB7@pitt.edu,
+KLF95@pitt.edu
 
 
 Data Sets:
